@@ -62,3 +62,9 @@ img {
 	width: auto;
 	margin: 0 auto;
 }
+
+@Media (max-width: 100%){
+  h1{
+    color: #D4AF37;
+  }
+}
