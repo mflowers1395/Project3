@@ -63,7 +63,7 @@ img {
 	margin: 0 auto;
 }
 
-@Media (max-width: 500px){
+@Media (max-width: 1000px){
   h1{
     color: blue;
   }
