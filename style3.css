@@ -1,0 +1,35 @@
+h1{
+  color: #C32148;
+}
+
+p{
+  color: #4B0082;
+}
+
+body {
+  background-color: #FFD1DC;
+}
+
+
+
+
+
+.nav{
+    border:1px solid #C32148;
+    border-width:1px 0;
+    list-style:none;
+    margin:0;
+    padding:0;
+    text-align:center;
+    background-color: #FFD1DC;
+}
+.nav li{
+    display:inline;
+    background-color: #E4D00A;
+}
+.nav a{
+    display:inline-block;
+    padding:10px;
+    color: #C32148;
+    background-color: #E4D00A;
+}
