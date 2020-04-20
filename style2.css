@@ -60,5 +60,13 @@ img {
 .video {
 	display: block;
 	width: auto;
-	margin: 0 auto; 
+	margin: 0 auto;
 }
+
+ @media( min-width: 600px) {
+   font-size: 1.25rem;
+ }
+
+ @media( min-width: 800px) {
+   font-size: 1.25rem;
+ }
