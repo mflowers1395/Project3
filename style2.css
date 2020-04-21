@@ -29,7 +29,7 @@ img {
 
 
 body {
-  background-color: grey;
+  background-color: #FFD1DC;
 }
 
 img {
@@ -44,45 +44,21 @@ img {
     margin:0;
     padding:0;
     text-align:center;
-    background-color: grey;
+    background-color: #FFD1DC;
 }
 .nav li{
     display:inline;
-    background-color: #FFD1DC;
+    background-color: #E4D00A;
 }
 .nav a{
     display:inline-block;
     padding:10px;
     color: #C32148;
-    background-color: grey;
+    background-color: #E4D00A;
 }
 
 .video {
 	display: block;
 	width: auto;
 	margin: 0 auto;
-}
-
-@media (min-width: 800px){
-  body{
-    background-color: #FFD1DC;
-  }
-
-  h1{
-    color: brown;
-  }
-
-  .nav a {
-    background-color: #E4D00A;
-  }
-}
-
-@media(min-width: 800px){
-  .nav{
-    background-color: #FFD1DC;
-  }
-
-  p{
-    color: brown;
-  }
 }
