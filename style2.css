@@ -62,3 +62,9 @@ img {
 	width: auto;
 	margin: 0 auto;
 }
+
+@media (min-width: 200px;){
+  body{
+    background-color: #D4AF37; 
+  }
+}
