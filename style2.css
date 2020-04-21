@@ -80,6 +80,12 @@ img {
   }
 
   .nav li {
-    background-color: Green;
+    background-color: green;
+  }
+}
+
+@media (min-width: 800px){
+  img {
+    float: left;
   }
 }
