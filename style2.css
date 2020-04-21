@@ -63,8 +63,8 @@ img {
 	margin: 0 auto;
 }
 
-@media (min-width: 200px;){
+@media (min-width: 500px;){
   body{
-    background-color: #E4D00A; 
+    background-color: #E4D00A;
   }
 }
