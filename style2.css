@@ -88,4 +88,11 @@ img {
   img {
     float: left;
   }
+
+  .video {
+  	display: block;
+  	width: auto;
+  	margin: 0 auto;
+    border-style: dotted;
+  }
 }
