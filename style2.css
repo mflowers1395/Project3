@@ -29,7 +29,7 @@ img {
 
 
 body {
-  background-color: #FFD1DC;
+  background-color: grey;
 }
 
 img {
@@ -44,7 +44,7 @@ img {
     margin:0;
     padding:0;
     text-align:center;
-    background-color: #FFD1DC;
+    background-color: grey;
 }
 .nav li{
     display:inline;
@@ -63,14 +63,14 @@ img {
 	margin: 0 auto;
 }
 
-@media (min-width: 1000px and max-width: 500px){
+@media (min-width: 1000px){
   body{
-    background-color: grey;
+    background-color: #FFD1DC;
   }
 }
 
-@media(min-width: 1000px and max-width: 500px){
+@media(min-width: 1000px){
   .nav{
-    background-color: grey;
+    background-color: #FFD1DC;
   }
 }
