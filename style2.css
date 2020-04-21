@@ -65,12 +65,12 @@ img {
 
 @media (min-width: 200px){
   body{
-    background-color: #FFD1DC;
+    background-color: #E4D00A;
   }
 }
 
 @media(min-width: 200px){
   .nav{
-    background-color: #FFD1DC;
+    background-color: #EAD00A;
   }
 }
