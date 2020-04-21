@@ -91,5 +91,6 @@ img {
 
   .video {
     border-style: dotted;
+    display: block;
   }
 }
