@@ -71,6 +71,10 @@ img {
   h1{
     color: brown;
   }
+
+  .nav a {
+    backgorund-color: #E4D00A;
+  }
 }
 
 @media(min-width: 800px){
