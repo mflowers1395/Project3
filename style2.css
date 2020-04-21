@@ -63,13 +63,13 @@ img {
 	margin: 0 auto;
 }
 
-@media (max-width: 800px){
+@media (min-width: 800px){
   body{
     background-color: grey;
   }
 }
 
-@media(max-width: 800px){
+@media(min-width: 800px){
   .nav{
     background-color: grey;
   }
