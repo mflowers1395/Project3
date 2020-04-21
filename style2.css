@@ -69,7 +69,7 @@ img {
   }
 
   h1{
-    color: #FFD1DC
+    color: grey;
   }
 }
 
@@ -79,6 +79,6 @@ img {
   }
 
   p{
-    color: Pink;
+    color: grey;
   }
 }
