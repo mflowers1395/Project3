@@ -71,7 +71,7 @@ img {
   h1{
     color: #FFD1DC;
   }
-  .nav li{
+  .nav a{
     background-color: #FFD1DC;
   }
 }
