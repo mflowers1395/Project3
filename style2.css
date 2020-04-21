@@ -63,8 +63,14 @@ img {
 	margin: 0 auto;
 }
 
-@media (max-width: 600px){
+@media (max-width: 800px){
   body{
-    background-color: green;
+    background-color: grey;
+  }
+}
+
+@media(max-width: 800px){
+  .nav{
+    background-color: grey;
   }
 }
