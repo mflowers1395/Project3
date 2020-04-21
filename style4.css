@@ -17,13 +17,3 @@
     color: #C32148;
     background-color: #E4D00A;
 }
-
-#map {
-  height: 100%;
-}
-
-html, body {
-  height: 100%;
-  margin: 0;
-  padding: 0;
-}
