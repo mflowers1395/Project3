@@ -20,11 +20,11 @@
 
 
 #map {
-  height: 50%;
-  width: 50%
+  height: 750px;
+  width: 750px
 }
 html, body {
-  height: 50%;
+  height: 100%;
   margin: 0;
   padding: 0;
 }
