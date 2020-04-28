@@ -1,16 +1,16 @@
 function initMap() {
-  var uluru = {lat: 41.864413, lng: -87.818513};
+  var hotdog = {lat: 41.864413, lng: -87.818513};
   var map = new google.maps.Map(document.getElementById('map'), {
     zoom: 4,
-    center: uluru
+    center: hotdog
   });
 
   var contentString = '<div id="content">'+
       '<div id="siteNotice">'+
       '</div>'+
-      '<h1 id="firstHeading" class="firstHeading">Uluru</h1>'+
+      '<h1 id="firstHeading" class="firstHeading">Portillo's Hotdogs</h1>'+
       '<div id="bodyContent">'+
-      '<p><b>Uluru</b>, also referred to as <b>Ayers Rock</b>, is a large ' +
+      '<p><b>Portillo's Hotdogs</b>, also referred to as <b>Ayers Rock</b>, is a large ' +
       'sandstone rock formation in the southern part of the '+
       'Northern Territory, central Australia. It lies 335&#160;km (208&#160;mi) '+
       'south west of the nearest large town, Alice Springs; 450&#160;km '+
