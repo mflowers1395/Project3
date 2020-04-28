@@ -20,7 +20,7 @@ function initMap() {
   });
 
   var marker = new google.maps.Marker({
-    position: Portillo's Hotdogs,
+    position: uluru,
     map: map,
     title: 'Portillo's Hotdogs'
   });
