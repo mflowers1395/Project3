@@ -8,7 +8,7 @@ function initMap() {
   var contentString = '<div id="content">'+
       '<div id="siteNotice">'+
       '</div>'+
-      '<h1 id="firstHeading" class="firstHeading">Portillos</h1>'+
+      '<h1 id="firstHeading" class="firstHeading">Portillos Hotdogs</h1>'+
       '<div id="bodyContent">'+
       '<p> This is where I go to get my favorite burger, Double Cheese Burger With Bacon!</p>'
       '</div>'+
