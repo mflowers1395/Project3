@@ -10,10 +10,7 @@ function initMap() {
       '</div>'+
       '<h1 id="firstHeading" class="firstHeading">Portillos</h1>'+
       '<div id="bodyContent">'+
-      '<p> This is where I go to get my favorite burger, Double Cheese Burger With Bacon!</p>'+
-      '<p>Attribution: Uluru, <a href="https://en.wikipedia.org/w/index.php?title=Uluru&oldid=297882194">'+
-      'https://en.wikipedia.org/w/index.php?title=Uluru</a> '+
-      '(last visited June 22, 2009).</p>'+
+      '<p> This is where I go to get my favorite burger, Double Cheese Burger With Bacon!</p>'
       '</div>'+
       '</div>';
 
