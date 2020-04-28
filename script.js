@@ -21,7 +21,7 @@ function initMap() {
   var marker = new google.maps.Marker({
     position: uluru,
     map: map,
-    title: 'Uluru (Ayers Rock)'
+    title: 'Portillos Hotdogs'
   });
   marker.addListener('click', function() {
     infowindow.open(map, marker);
