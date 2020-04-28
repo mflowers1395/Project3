@@ -8,7 +8,7 @@ function initMap() {
   var contentString = '<div id="content">'+
       '<div id="siteNotice">'+
       '</div>'+
-      '<h1 id="firstHeading" class="firstHeading">Portillo's  Hotdogs</h1>'+
+      '<h1 id="firstHeading" class="firstHeading">Portillos</h1>'+
       '<div id="bodyContent">'+
       '<p> This is where I go to get my favorite burger, Double Cheese Burger With Bacon!</p>'
       '</div>'+
@@ -21,7 +21,7 @@ function initMap() {
   var marker = new google.maps.Marker({
     position: uluru,
     map: map,
-    title: 'Portillos'
+    title: 'Uluru (Ayers Rock)'
   });
   marker.addListener('click', function() {
     infowindow.open(map, marker);
