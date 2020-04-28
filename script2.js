@@ -1,5 +1,5 @@
 var myImage=document.getElementById("3rd");
-var imageArray=["Media/3rdSweater.jpg", "Media/FirstSweater.jpg", "Media/SecondDone.jpg", "Media/SecondSweater.jpg"];
+var imageArray=["Media/FirstSweater.jpg", "Media/SecondDone.jpg", "Media/SecondSweater.jpg", "Media/3rdSweater.jpg"];
 
 var imageIndex=0;
 
