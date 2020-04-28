@@ -1,0 +1,28 @@
+function changeImg(){
+
+  document.slide.src = images.[i];
+}
+
+if(i < images.length - 1){
+  i++;
+}
+else {
+  i =0;
+}
+
+setTimeout("changeImg()", time);
+
+var i = 0;
+var images = [];
+var time = 3000;
+
+images[0] = '3rdSweater.jpg';
+images[1] = 'black.jpg';
+images[2] = 'FirstSweater.jpg';
+images[3] = 'honey.jpg';
+images[4] = 'lemon.jpg';
+images[5] = 'SecondDone.jpg';
+images[6] = 'SecondSweater.jpg';
+images[7] = 'tea.jpg';
+
+window.onload =changeImg;
