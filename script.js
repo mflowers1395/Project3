@@ -21,7 +21,7 @@ function initMap() {
   var marker = new google.maps.Marker({
     position: uluru,
     map: map,
-    title: 'Portillo's Hotdogs'
+    title: 'Portillos'
   });
   marker.addListener('click', function() {
     infowindow.open(map, marker);
