@@ -12,6 +12,3 @@ function changeImage (){
 }
 
 var intervalHandle = setInterval(changeImage,2000);
-mef.onclick=function(){
-  clearInterval(intervalHandle)
-}
